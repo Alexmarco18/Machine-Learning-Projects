@@ -7,7 +7,9 @@ That’s where this dataset comes in. It contains real-world examples of people 
 Problem Statement
 
 Build a machine learning system that predicts the medical insurance cost of a person based on personal, lifestyle, and demographic information.
-Inputs include:
+
+### Dataset
+[Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - Age
 - Gender
 - BMI (Body Mass Index)
