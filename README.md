@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine-Learning-Project-Medical-Cost-Insurance
 ### About
 Imagine you work at a health insurance company. Every day, people apply for insurance coverage, and your job is to estimate how much their medical expenses might cost. But there's a problem—people are different. Some are older, some have more kids, some smoke, some live in different regions, and all of these factors affect healthcare costs. How do you fairly and accurately calculate what someone should pay for insurance? That’s where this dataset comes in. It contains real-world examples of people with details like age, BMI, smoker status, and what they were charged for insurance. The goal is to use this data to build a system that can learn from patterns and predict insurance costs for new customers—even those the company hasn’t seen before. Problem Statement
 
