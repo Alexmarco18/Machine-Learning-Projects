@@ -25,7 +25,7 @@ Inputs include:
 
 ### Usage
 To Use this project:
-Open in [Jupyter Notebook](http://localhost:8888/notebooks/Medical%20Cost.ipynb)
+Open in [Jupyter Notebook](http://localhost:8888/notebooks/Medical%20Cost.ipynb) <br>
 Explore the generated plots and visualizations to analyze the data and model performance.
 Experiment with different parameters and features to further enhance the model's accuracy.
 
