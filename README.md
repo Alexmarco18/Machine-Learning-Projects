@@ -9,7 +9,7 @@ Problem Statement
 Build a machine learning system that predicts the medical insurance cost of a person based on personal, lifestyle, and demographic information.
 
 ### Dataset
-[Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+[Medical Cost insurance From Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - Age
 - Gender
 - BMI (Body Mass Index)
